@@ -1,16 +1,21 @@
-## Hi there 👋
+# [root@archlinux ~]# cat viktor_tihonov | less
 
-<!--
-**fffroot/fffroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>  Системный разработчик | 🐧 Linux-энтузиаст | ⚙️ Python / C / Bash  
+> *«Лучший способ понять технологию — собрать её самому, от строчки кода до работающей системы»*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 О чём мои проекты
+Я исследую и собираю ПО «под капотом»: от написания ядер, эмуляторов и сетевых стеков до разработки безопасного бэкенда, распределённых сетей и инструментов автоматизации.  
+Все репозитории **открыты**, задокументированы, используют `MIT License` и готовы к коллаборации. Каждый проект — изолирован, имеет свой `README`, примеры запуска и чёткие границы ответственности.
+
+---
+
+
+
+## 📬 Контакты
+- 📧 `dgdg21321@gmail.com`
+- 💬 `Telegram: @lost_root`
+
+---
+> 📜 Все проекты распространяются под лицензией [MIT](https://choosealicense.com/licenses/mit/), если в репозитории не указано иное.  
