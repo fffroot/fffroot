@@ -18,4 +18,3 @@
 - 💬 `Telegram: @lost_root`
 
 ---
-> 📜 Все проекты распространяются под лицензией [MIT](https://choosealicense.com/licenses/mit/), если в репозитории не указано иное.  
