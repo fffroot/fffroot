@@ -1,4 +1,3 @@
-# [root@archlinux ~]# cat viktor_tihonov | less
 
 >  Системный разработчик | 🐧 Linux-энтузиаст | ⚙️ Python / C / Bash
 
